@@ -1,0 +1,8 @@
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\bin\Debug\ShutDOWNer.exe
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\bin\Debug\ShutDOWNer.pdb
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\obj\Debug\ShutDOWNer.Form1.resources
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\obj\Debug\ShutDOWNer.Properties.Resources.resources
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\obj\Debug\ShutDOWNer.csproj.GenerateResource.Cache
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\obj\Debug\ShutDOWNer.exe
+C:\Users\Dev\Documents\Visual Studio 2008\Projects\ShutDOWNer\ShutDOWNer\obj\Debug\ShutDOWNer.pdb
